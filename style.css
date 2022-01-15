@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(73, 149, 199)
+
+   );
+   font-family: 'Montserrat', sans-serif;
+}
+h4{
+    text-align: center;
+    color: rgb(0, 0, 0);
+   border: 3 3 3px;
+   border-top: rgb(92, 197, 245);
+   text-justify: distribute 30 30 30px;
+   font-family: 'Montserrat', sans-serif;
+}
+.box{
+    width: 100%;
+    max-width: 100%;
+   text-align: center;
+
+}
+.header{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    padding-top: 40px ;
+    color: rgb(255, 255, 255);
+    
+}
+.lks {
+    
+    text-align: center;
+    justify-content:space-between;
+
+align-items: center;
+}
+.logo{
+    font-size: 50px;
+    font-weight: 300;
+    color: rgb(255, 255, 255);
+   
+}
+.blo {
+font-size: 17px;
+text-transform: uppercase;
+}
+.infohre {
+    display: inline-block;
+   vertical-align: top;
+   margin: 0 9px;
+text-decoration: none ;
+color: rgb(255, 255, 255);
+transition: color 0.2s linear;
+}
+.infohre:hover{
+color: rgb(0, 217, 255);
+}
+img {
+    size: 1000px;
+    width: 1000px;
+}
+.block {
+    color: rgb(134, 129, 129);
+
+    width: 100%;
+    max-width: 100%
+    
+}
+.video {
+    text-align: center;
+    
+}
